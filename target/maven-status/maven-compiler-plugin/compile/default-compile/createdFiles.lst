@@ -1,0 +1,16 @@
+io\jenkins\plugins\qmdemo\BuildHistory.class
+META-INF\annotations\org.kohsuke.accmod.Restricted
+io\jenkins\plugins\qmdemo\ResultsDetails.class
+META-INF\exposed.stapler-beans
+io\jenkins\plugins\qmdemo\JobExecutionInfos.class
+io\jenkins\plugins\qmdemo\BuildInfo.class
+io\jenkins\plugins\qmdemo\QM.class
+io\jenkins\plugins\qmdemo\Dashboard.javadoc
+META-INF\annotations\hudson.Extension
+META-INF\annotations\org.kohsuke.stapler.export.ExportedBean
+META-INF\annotations\hudson.Extension.txt
+io\jenkins\plugins\qmdemo\NodeInfo.class
+io\jenkins\plugins\qmdemo\Dashboard.class
+io\jenkins\plugins\qmdemo\QM.javadoc
+io\jenkins\plugins\qmdemo\Messages.class
+io\jenkins\plugins\qmdemo\BuildInProgress.class

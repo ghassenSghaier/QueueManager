@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: qmdemo
+Long-Name: QMDEMO
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-08/04/2020 01:31-lenovo)
+Hudson-Version: 2.164.3
+Jenkins-Version: 2.164.3
+Plugin-Dependencies: PrioritySorter:3.6.1-SNAPSHOT,workflow-cps:2.74,w
+ orkflow-durable-task-step:2.31,workflow-job:2.35,structs:1.20
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/plugin-pom/qmdemo
+Libraries: C:\Users\lenovo\Documents\NetBeansProjects\qmdemo\src\main\
+ resources,C:\Users\lenovo\Documents\NetBeansProjects\qmdemo\target\cl
+ asses,C:\Users\lenovo\.m2\repository\javax\validation\validation-api\
+ 2.0.1.Final\validation-api-2.0.1.Final.jar
+Resource-Path: C:\Users\lenovo\Documents\NetBeansProjects\qmdemo\src\m
+ ain\webapp
+

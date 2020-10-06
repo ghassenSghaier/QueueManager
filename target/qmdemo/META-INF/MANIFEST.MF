@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Built-By: lenovo
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_231
+Extension-Name: qmdemo
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: qmdemo
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: io.jenkins.plugins
+Short-Name: qmdemo
+Long-Name: QMDEMO
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-08/04/2020 01:32-lenovo)
+Hudson-Version: 2.164.3
+Jenkins-Version: 2.164.3
+Plugin-Dependencies: PrioritySorter:3.6.1-SNAPSHOT,workflow-cps:2.74,w
+ orkflow-durable-task-step:2.31,workflow-job:2.35,structs:1.20
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/plugin-pom/qmdemo
+

@@ -1,0 +1,5 @@
+# informational; use java -jar sezpoz.jar to see authoritative contents
+io.jenkins.plugins.qmdemo.BuildHistory
+io.jenkins.plugins.qmdemo.BuildInProgress
+io.jenkins.plugins.qmdemo.Dashboard
+io.jenkins.plugins.qmdemo.QM
